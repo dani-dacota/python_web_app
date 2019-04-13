@@ -1,0 +1,8 @@
+{% extends "firstApp/base.html" %} {% block main %}
+<h2>This is my Homepage</h2>
+<ol>
+  {% for person in persons %}
+  <li>{{ person.firstName }}</li>
+  {% endfor %}
+</ol>
+{% endblock %}
