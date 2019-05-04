@@ -1,8 +1,8 @@
-# Text backup files
-*.bak
+# # Text backup files
+# *.bak
 
-# Database
-*.sqlite3
+# # Database
+# *.sqlite3
 
 
 
