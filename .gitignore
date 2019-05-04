@@ -4,5 +4,8 @@
 # Database
 *.sqlite3
 
+# lock
+*.lock
+
 
 
