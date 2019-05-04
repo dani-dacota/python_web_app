@@ -26,7 +26,7 @@ SECRET_KEY = 'z!@&_huhr&#cax7a=s9zzhj0z$ui0m%(2!zeo4$u^(4%^^ege3'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://thawing-journey-34834.herokuapp.com/' #added
+    'thawing-journey-34834.herokuapp.com' #added
 ]
 
 
