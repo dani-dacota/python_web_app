@@ -4,7 +4,7 @@
 # Database
 *.sqlite3
 
-# lock
+# File lock
 *.lock
 
 
